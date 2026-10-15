@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there!
+
+I'm an aspiring software engineer who wants to understand software beyond the abstractions.
+
+I'm passionate about exploring how things work under the hood—from operating systems and networking to databases, backend infrastructure, and full-stack development.
+
+My goal isn't just to build applications. It's to develop the knowledge and skills to build the systems and tools that power them.
